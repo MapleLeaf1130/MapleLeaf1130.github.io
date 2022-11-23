@@ -17,3 +17,8 @@ h1 {
 body {
   font-family: 'Lora', Helvetica, Arial;
 }
+
+body {
+  cursor: pointer;
+  background: #000000 url(https://mapleleaf1130.github.io/EFE5C4D6-7E91-487A-BE24-3BCC1795B12A.jpeg) center center/cover no-repeat fixed;
+}
