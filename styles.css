@@ -14,19 +14,19 @@ a:link {
 }
 
 a:link {
-  color: green; 
+  color: black; 
 }
 
 a:visited {
-  color: pink;
+  color: black;
 }
 
 a:hover {
-  color: red;
+  color: black;
 }
 
 a:active {
-  color: yellow;
+  color: black;
 }
 
 h1 {
