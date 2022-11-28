@@ -39,7 +39,13 @@ body {
   
 body {
   cursor: pointer;
-  background: #000000 url(https://mapleleaf1130.github.io/2A7C4306-86F2-4EC4-B561-AB54D327138F.jpeg) center center/cover no-repeat fixed;
 }
 
+@media (prefers-color-scheme: dark) {
+  background: #000000 url(CC0A9529-00AD-4FAD-B50A-D7C285404905.png) center center/cover no-repeat fixed;
+}
+
+@media (prefers-color-scheme: light) {
+  background: #000000 url(https://mapleleaf1130.github.io/2A7C4306-86F2-4EC4-B561-AB54D327138F.jpeg) center center/cover no-repeat fixed;
+}
 </style>
