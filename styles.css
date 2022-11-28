@@ -1,7 +1,5 @@
 <style>
 
-@media (prefers-color-scheme: light) {
-
 h1 {
   color: #000000;
 }
@@ -37,8 +35,6 @@ h1 {
 
 body {
   font-family: 'Lora', Helvetica, Arial;
-}
-
 }
   
 body {
